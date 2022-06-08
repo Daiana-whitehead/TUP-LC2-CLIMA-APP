@@ -60,6 +60,7 @@ h3 {
 main section {
     display: flex;
     justify-content: center;
+    margin-bottom: 35px;
 }
 
 h2 {
